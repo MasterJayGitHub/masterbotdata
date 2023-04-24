@@ -1,8 +1,8 @@
 {
 
-  "Command_Name": "",
+  "Command_Name": "Test",
 
-  "Author": "",
+  "Author": "This is author",
 
   "Author_URL": "",
 
@@ -10,19 +10,20 @@
 
   "Thumbnail": "",
 
-  "Title": "",
+  "Title": "This is Title",
 
-  "Description": "",
+  "Description": "This is description",
 
-  "Footer": "",
+
+  "Footer": "This is Footer and timestamp",
 
   "Footer_Icon": "",
 
   "Image": "",
 
-  "Timestamp": false,
+  "Timestamp": true,
 
-  "Embed_Color": "",
+  "Embed_Color": "33ff66",
 
   "Field1": {},
 
